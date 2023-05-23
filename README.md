@@ -7,8 +7,10 @@ The purpose of this repository is to showcase my problem-solving skills and prov
 # Kata Structure
 Each kata is organized in the following manner:
 
-### Kata Description: A clear and concise description of the problem statement, requirements, and expected outputs.
-### Solution: My implementation of the kata, providing a step-by-step approach to solving the problem. Each solution is well-documented and includes relevant explanations and any assumptions made during the implementation.
+### Kata Description: 
+- A clear and concise description of the problem statement, requirements, and expected outputs.
+### Solution: 
+- My implementation of the kata, providing a step-by-step approach to solving the problem. Each solution is well-documented and includes relevant explanations and any assumptions made during the implementation.
 
 # Usage
 Feel free to explore the katas, read the problem descriptions, and examine my solutions. You can browse the repository to find katas that interest you or focus on specific areas of coding challenges.
