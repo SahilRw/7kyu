@@ -13,13 +13,6 @@ Test Cases: A set of test cases that verify the correctness and accuracy of the 
 Usage
 Feel free to explore the katas, read the problem descriptions, and examine my solutions. You can browse the repository to find katas that interest you or focus on specific areas of coding challenges.
 
-To run the code locally or test the solutions, clone the repository using the following command:
-
-bash
-Copy code
-git clone https://github.com/your-username/codewars-7kyu-katas.git
-Then, navigate to the project directory and explore the individual kata folders to view the descriptions and corresponding solutions.
-
 # Contributions
 Contributions to this repository are currently not open, as it is meant to showcase my personal solutions. However, if you have suggestions, alternative approaches, or improvements to any of the katas, please feel free to open an issue or reach out to discuss.
 
