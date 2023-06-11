@@ -1,8 +1,8 @@
-# CodeWars 7kyu Katas
-This repository serves as a collection of my solutions for CodeWars 7kyu katas. CodeWars is a platform that provides coding challenges and katas to help developers sharpen their programming skills.
+# CodeWars Katas
+This repository serves as a collection of my solutions for CodeWars katas. CodeWars is a platform that provides coding challenges and katas to help developers sharpen their programming skills.
 
 # Project Description
-The purpose of this repository is to showcase my problem-solving skills and provide solutions to various 7kyu-level katas. Each kata includes a description of the problem and my corresponding solution/solutions.
+The purpose of this repository is to showcase my problem-solving skills and provide solutions to various katas. Each kata includes a description of the problem and my corresponding solution/solutions.
 
 # Kata Structure
 Each kata is organized in the following manner:
