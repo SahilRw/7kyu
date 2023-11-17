@@ -16,7 +16,7 @@
 # Explanation: Only one meeting occurs.
 
 
-# my solution
+# my solution python
 def count_salutes(hallway):
     right_count = 0
     total_salutes = 0
